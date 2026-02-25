@@ -1,21 +1,15 @@
 /**
- * DAY 1: Linear Search & Big O Foundations
- * Problem: Find the index of a target element in an array.
- * Time Complexity: O(n) - because in the worst case, we check every element.
- * Space Complexity: O(1) - we aren't using extra memory relative to input size.
+ * DAY 1: Array Foundations 
+ * Goal: Master the basic 'Push' and 'Access' operations.
  */
 
-function linearSearch(arr, target) {
-    for (let i = 0; i < arr.length; i++) {
-        if (arr[i] === target) {
-            return i; // Found it!
-        }
-    }
-    return -1; // Not found
-}
+const podium = ["Max Verstappen", "Lewis Hamilton"];
 
-// Demo Test
-const myNumbers = [10, 20, 30, 40, 50];
-const target = 30;
+// Adding a 3rd legend
+podium.push("Michael Schumacher");
 
-console.log("Index of 30 is:", linearSearch(myNumbers, target));
+// Accessing the P1 driver
+console.log("The winner is: " + podium[0]);
+
+// Time Complexity of access: O(1)
+// Time Complexity of search: O(n)
