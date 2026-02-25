@@ -1,0 +1,21 @@
+/**
+ * DAY 1: Linear Search & Big O Foundations
+ * Problem: Find the index of a target element in an array.
+ * Time Complexity: O(n) - because in the worst case, we check every element.
+ * Space Complexity: O(1) - we aren't using extra memory relative to input size.
+ */
+
+function linearSearch(arr, target) {
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] === target) {
+            return i; // Found it!
+        }
+    }
+    return -1; // Not found
+}
+
+// Demo Test
+const myNumbers = [10, 20, 30, 40, 50];
+const target = 30;
+
+console.log("Index of 30 is:", linearSearch(myNumbers, target));
