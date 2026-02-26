@@ -4,7 +4,7 @@ A public log of my progress in Data Structures and Algorithms.
 
 ## 📊 Progress Tracker
 - [x] Unit 1: Foundations (Time Complexity)
-- [ ] Unit 2: Linear Data Structures
+- [x] Unit 2: Linear Data Structures
 - [ ] Unit 3: Sorting & Searching
 
 ## 📓 Daily Logs
