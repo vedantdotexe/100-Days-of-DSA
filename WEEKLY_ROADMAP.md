@@ -28,7 +28,7 @@ This repository tracks my daily progress from absolute zero to advanced DSA. My 
 ---
 
 ## 🗓️ Daily Progress Log
-
+📖 Read my detailed daily thoughts in my [Unit-1 daily Log](./Unit-1/Logs/Day-01.md)
 | Day | Topic | Key Concept | Code Link |
 | :--- | :--- | :--- | :--- |
 | **Day 1** | **Linear Search** | Basic $O(n)$ Looping | [View Code](./Unit-1/01_Linear_Search.js) |
