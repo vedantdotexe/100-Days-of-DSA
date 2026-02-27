@@ -28,11 +28,11 @@ This repository tracks my daily progress from absolute zero to advanced DSA. My 
 ---
 
 ## 🗓️ Daily Progress Log
-📖 Read my detailed daily thoughts in my [Unit-1 daily Log](./Unit-1/Logs/Day-01.md)
+📖 Read my detailed daily thoughts in my [Unit-1 daily Log](./Unit-1/Logs)
 | Day | Topic | Key Concept | Code Link |
 | :--- | :--- | :--- | :--- |
 | **Day 1** | **Linear Search** | Basic $O(n)$ Looping | [View Code](./Unit-1/01_Linear_Search.js) |
 | **Day 2** | **Array Memory** | push $O(1)$ vs unshift $O(n)$ | [View Code](./Unit-1/02_Array_Memory.js) |
-| Day 3 | | | |
+| Day 3 |**Max/Min Values** |Single-pass O(n) Traversal |[View Code](./Unit-1/03_Max_Min.js)  |
 
 ---
