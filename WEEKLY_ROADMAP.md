@@ -33,6 +33,6 @@ This repository tracks my daily progress from absolute zero to advanced DSA. My 
 | :--- | :--- | :--- | :--- |
 | **Day 1** | **Linear Search** | Basic $O(n)$ Looping | [View Code](./Unit-1/01_Linear_Search.js) |
 | **Day 2** | **Array Memory** | push $O(1)$ vs unshift $O(n)$ | [View Code](./Unit-1/02_Array_Memory.js) |
-| Day 3 |**Max/Min Values** |Single-pass O(n) Traversal |[View Code](./Unit-1/03_Max_Min.js)  |
-
+| **Day 3** |**Max/Min Values** |Single-pass O(n) Traversal |[View Code](./Unit-1/03_Max_Min.js)  |
+| **Day 4** |**Array Reversal** | Two-Pointer / In-Place Swap | [ViewCode](./Unit-1/04_Array_Reverse.js) |
 ---
