@@ -14,3 +14,4 @@ A public log of my progress in Data Structures and Algorithms.
 | **Day 1** | **Linear Search** | Understood $O(n)$ using Red Bull car parts array | [View Code](./Unit-1/01_Linear_Search.js) |
 | **Day 2** | **Array Memory** | push $O(1)$ vs unshift $O(n)$ | [View Code](./Unit-1/02_Array_Memory.js) |
 | **Day 3** | **Max/Min Values** | Single-pass O(n) Traversal | [View Code](./Unit-1/03_Max_Min.js) |
+| **Day 4** | Array Reversal | Two-Pointer / In-Place Swap | [ViewCode](./Unit-1/04_Array_Reverse.js) |
