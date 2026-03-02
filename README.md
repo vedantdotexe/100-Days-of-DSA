@@ -15,3 +15,4 @@ A public log of my progress in Data Structures and Algorithms.
 | **Day 2** | **Array Memory** | push $O(1)$ vs unshift $O(n)$ | [View Code](./Unit-1/02_Array_Memory.js) |
 | **Day 3** | **Max/Min Values** | Single-pass O(n) Traversal | [View Code](./Unit-1/03_Max_Min.js) |
 | **Day 4** | Array Reversal | Two-Pointer / In-Place Swap | [ViewCode](./Unit-1/04_Array_Reverse.js) |
+| **Day 5** | Remove Duplicates | Two-Pointer / In-Place Filtering | [View Code](./Unit-1/05_Remove_Duplicates.js) |
