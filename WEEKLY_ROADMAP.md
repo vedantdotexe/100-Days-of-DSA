@@ -36,4 +36,5 @@ This repository tracks my daily progress from absolute zero to advanced DSA. My 
 | **Day 3** |**Max/Min Values** |Single-pass O(n) Traversal |[View Code](./Unit-1/03_Max_Min.js)  |
 | **Day 4** |**Array Reversal** | Two-Pointer / In-Place Swap | [ViewCode](./Unit-1/04_Array_Reverse.js) |
 | **Day 5** | Remove Duplicates | Two-Pointer / In-Place Filtering | [View Code](./Unit-1/05_Remove_Duplicates.js) |
+| **Day 6** | Left Rotation | Element Shifting / O(n) | [View Code](./Unit-1/06_Left_Rotation.js) |
 ---
