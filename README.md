@@ -17,3 +17,4 @@ A public log of my progress in Data Structures and Algorithms.
 | **Day 4** | Array Reversal | Two-Pointer / In-Place Swap | [ViewCode](./Unit-1/04_Array_Reverse.js) |
 | **Day 5** | Remove Duplicates | Two-Pointer / In-Place Filtering | [View Code](./Unit-1/05_Remove_Duplicates.js) |
 | **Day 6** | Left Rotation | Element Shifting / O(n) | [view Code](./Unit-1/06_Left_Rotation.js) |
+| **Day 7** | Rotate by K | Triple Reversal Trick / O(n) | [View Code](./Unit-1/07_Rotate_By_K.js) |
