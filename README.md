@@ -18,3 +18,5 @@ A public log of my progress in Data Structures and Algorithms.
 | **Day 5** | Remove Duplicates | Two-Pointer / In-Place Filtering | [View Code](./Unit-1/05_Remove_Duplicates.js) |
 | **Day 6** | Left Rotation | Element Shifting / O(n) | [view Code](./Unit-1/06_Left_Rotation.js) |
 | **Day 7** | Rotate by K | Triple Reversal Trick / O(n) | [View Code](./Unit-1/07_Rotate_By_K.js) |
+| **Day 8-10** | Medical Break | Recovery from Fever | - |
+| **Day 11** | Single Number | Frequency Mapping | [View Code](./Unit-1/11_Single_Number.js) |
