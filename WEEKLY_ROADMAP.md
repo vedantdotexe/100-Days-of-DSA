@@ -41,4 +41,5 @@ This repository tracks my daily progress from absolute zero to advanced DSA. My 
 | **Day 8-10** | Medical Break | Recovery from Fever | - |
 | **Day 11** | Single Number | Frequency Mapping | [View Code](./Unit-1/11_Single_Number.js) |
 | **Day 12** | Two Sum | Missing Piece / Object Lookup | [View Code](./Unit-1/12_Two_Sum.js) |
+| **Day 13** | Array Intersection | Checklist (Hash Map) | [View Code](./Unit-1/13_Array_Intersection.js) |
 ---
