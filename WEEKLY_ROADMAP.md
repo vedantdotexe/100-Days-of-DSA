@@ -45,4 +45,5 @@ This repository tracks my daily progress from absolute zero to advanced DSA. My 
 | **Day 14** | Subarray Sum | Sliding Frame / Nested Loops | [View Code](./Unit-1/14_Subarray_Sum.js) |
 | **Day 15** | Optimized Window | Subtract Tail / Add Head ($O(n)$) | [View Code](./Unit-1/15_Fast_Sliding_Window.js) |
 | **Day 16** | Valid Palindrome | Two-Pointer / Mirror Logic | [View Code](./Unit-2/16_Valid_Palindrome.js) |
+| **Day 17** | Valid Anagram | Frequency Array / ASCII Math | [View Code](./Unit-2/17_Valid_Anagram.java) |
 ---
