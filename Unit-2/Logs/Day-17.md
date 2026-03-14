@@ -1,4 +1,4 @@
-### 🟢 Day 17: March 15, 2026
+### 🟢 Day 17: March 14, 2026
 **Topic:** Valid Anagram (Frequency Array)
 **Language:** Java ☕
 **Vibe:** 🧠 Thinking in ASCII
