@@ -30,4 +30,7 @@ A public log of my progress in Data Structures and Algorithms.
 | **Day 19** | Reverse Words | Split / Two-Pointer Swap | [View Code](./Unit-2/19_Reverse_Words.java) |
 | **Day 20** | String Rotation | Concatenation Trick / contains() | [View Code](./Unit-2/20_String_Rotation.java) |
 | **Day 21** | String Compression | StringBuilder / Single-Pass Counting | [View Code](./Unit-2/21_String_Compression.java) |
+| **Day 22** | Longest Common Prefix| Vertical Scanning / substring() | [View Code](./Unit-2/22_Longest_Common_Prefix.java) |
+| **Day 23** | Palindromic Substrings| Expand from Center Strategy | [View Code](./Unit-2/23_Palindromic_Substrings.java) |
+
 ---
