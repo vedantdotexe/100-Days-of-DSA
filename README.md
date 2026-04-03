@@ -33,5 +33,5 @@ A public log of my progress in Data Structures and Algorithms.
 | **Day 22** | Longest Common Prefix| Vertical Scanning / substring() | [View Code](./Unit-2/22_Longest_Common_Prefix.java) |
 | **Day 23** | Palindromic Substrings| Expand from Center Strategy | [View Code](./Unit-2/23_Palindromic_Substrings.java) |
 | **Day 24** | Binary Search | Divide & Conquer ($O(\log n)$) | [View Code](./Unit-3/24_Binary_Search.java) |
-
+| **Day 25** | Search Insert Position| Binary Search / Boundary Logic | [View Code](./Unit-3/25_Search_Insert_Pos.java) |
 ---
