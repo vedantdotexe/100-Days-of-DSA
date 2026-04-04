@@ -34,4 +34,5 @@ A public log of my progress in Data Structures and Algorithms.
 | **Day 23** | Palindromic Substrings| Expand from Center Strategy | [View Code](./Unit-2/23_Palindromic_Substrings.java) |
 | **Day 24** | Binary Search | Divide & Conquer ($O(\log n)$) | [View Code](./Unit-3/24_Binary_Search.java) |
 | **Day 25** | Search Insert Position| Binary Search / Boundary Logic | [View Code](./Unit-3/25_Search_Insert_Pos.java) |
+| **Day 26** | Search a 2D Matrix | 2D to 1D Mapping Logic | [View Code](./Unit-3/26_Search_2D_Matrix.java) |
 ---
