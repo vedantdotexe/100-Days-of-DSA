@@ -40,4 +40,5 @@ A public log of my progress in Data Structures and Algorithms.
 | **Day 29** | Find Peak Element | Binary Search on Slopes | [View Code](./Unit-3/29_Find_Peak_Element.java) |
 | **Day 30** | Bubble Sort | Nested Loops / Swapping Logic | [View Code](./Unit-3/30_Bubble_Sort.java) |
 | **Day 31** | Selection Sort | Minimum Selection / One Swap per Pass | [View Code](./Unit-3/31_Selection_Sort.java) |
+| **Day 32** | Insertion Sort | Shifting Logic / Adaptive Sorting | [View Code](./Unit-3/32_Insertion_Sort.java) |
 ---
