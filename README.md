@@ -36,4 +36,5 @@ A public log of my progress in Data Structures and Algorithms.
 | **Day 25** | Search Insert Position| Binary Search / Boundary Logic | [View Code](./Unit-3/25_Search_Insert_Pos.java) |
 | **Day 26** | Search a 2D Matrix | 2D to 1D Mapping Logic | [View Code](./Unit-3/26_Search_2D_Matrix.java) |
 | **Day 27** | First & Last Pos | Boundary-Focused Binary Search | [View Code](./Unit-3/27_First_Last_Position.java) |
+| **Day 28** | Search Rotated Array | Logic-Based Binary Search | [View Code](./Unit-3/28_Search_Rotated_Array.java) |
 ---
