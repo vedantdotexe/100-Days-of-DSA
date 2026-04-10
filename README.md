@@ -39,4 +39,5 @@ A public log of my progress in Data Structures and Algorithms.
 | **Day 28** | Search Rotated Array | Logic-Based Binary Search | [View Code](./Unit-3/28_Search_Rotated_Array.java) |
 | **Day 29** | Find Peak Element | Binary Search on Slopes | [View Code](./Unit-3/29_Find_Peak_Element.java) |
 | **Day 30** | Bubble Sort | Nested Loops / Swapping Logic | [View Code](./Unit-3/30_Bubble_Sort.java) |
+| **Day 31** | Selection Sort | Minimum Selection / One Swap per Pass | [View Code](./Unit-3/31_Selection_Sort.java) |
 ---
