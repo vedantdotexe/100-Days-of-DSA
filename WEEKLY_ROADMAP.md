@@ -55,4 +55,12 @@ This repository tracks my daily progress from absolute zero to advanced DSA. My 
 | **Day 24** | Binary Search | Divide & Conquer ($O(\log n)$) | [View Code](./Unit-3/24_Binary_Search.java) |
 | **Day 25** | Search Insert Position| Binary Search / Boundary Logic | [View Code](./Unit-3/25_Search_Insert_Pos.java) |
 | **Day 26** | Search a 2D Matrix | 2D to 1D Mapping Logic | [View Code](./Unit-3/26_Search_2D_Matrix.java) |
+| **Day 27** | First & Last Pos | Boundary-Focused Binary Search | [View Code](./Unit-3/27_First_Last_Position.java) |
+| **Day 28** | Search Rotated Array | Logic-Based Binary Search | [View Code](./Unit-3/28_Search_Rotated_Array.java) |
+| **Day 29** | Find Peak Element | Binary Search on Slopes | [View Code](./Unit-3/29_Find_Peak_Element.java) |
+| **Day 30** | Bubble Sort | Nested Loops / Swapping Logic | [View Code](./Unit-3/30_Bubble_Sort.java) |
+| **Day 31** | Selection Sort | Minimum Selection / One Swap per Pass | [View Code](./Unit-3/31_Selection_Sort.java) |
+| **Day 32** | Insertion Sort | Shifting Logic / Adaptive Sorting | [View Code](./Unit-3/32_Insertion_Sort.java) |
+| **Day 33** | Merge Sort | Divide & Conquer / Recursion | [View Code](./Unit-3/33_Merge_Sort.java) |
+| **Day 34** | Quick Sort | Pivot Partitioning (In-place) | [View Code](./Unit-3/34_Quick_Sort.java) |
 ---
